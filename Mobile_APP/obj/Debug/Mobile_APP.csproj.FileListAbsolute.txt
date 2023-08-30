@@ -1,0 +1,229 @@
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Mobile_APP.dll.config
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Mobile_APP.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Mobile_APP.pdb
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\csc.exe
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\csc.exe.config
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\csc.rsp
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\csi.exe
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\csi.exe.config
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\csi.rsp
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.AppContext.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Collections.Immutable.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Console.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Globalization.Calendars.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.Compression.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.FileSystem.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Net.Http.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Net.Sockets.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.ValueTuple.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.XPath.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\vbc.exe
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\vbc.exe.config
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\vbc.rsp
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\VBCSCompiler.exe
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\roslyn\VBCSCompiler.exe.config
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Antlr3.Runtime.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Microsoft.Web.Infrastructure.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Newtonsoft.Json.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Net.Http.Formatting.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Helpers.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Http.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Http.WebHost.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Mvc.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Optimization.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Razor.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Deployment.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Razor.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\WebGrease.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Helpers.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Mvc.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Optimization.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Razor.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Deployment.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Razor.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Newtonsoft.Json.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Antlr3.Runtime.pdb
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Net.Http.Formatting.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Http.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Web.Http.WebHost.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.csproj.AssemblyReference.cache
+D:\MyWebAPI\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.csproj.CoreCompileInputs.cache
+D:\MyWebAPI\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.csproj.CopyComplete
+D:\MyWebAPI\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.pdb
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\BouncyCastle.Crypto.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Google.Protobuf.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.Streams.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\K4os.Hash.xxHash.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\MySql.Data.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Buffers.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Configuration.ConfigurationManager.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Diagnostics.DiagnosticSource.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.IO.Pipelines.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Memory.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Numerics.Vectors.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Threading.Tasks.Extensions.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\ZstdSharp.dll
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\BouncyCastle.Crypto.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Google.Protobuf.pdb
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Google.Protobuf.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.Streams.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\K4os.Hash.xxHash.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\MySql.Data.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Buffers.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Diagnostics.DiagnosticSource.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.IO.Pipelines.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Memory.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Numerics.Vectors.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyWebAPI\Mobile_APP\Mobile_APP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.csproj.AssemblyReference.cache
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.csproj.CoreCompileInputs.cache
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.pdb
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Mobile_APP.dll.config
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Mobile_APP.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Mobile_APP.pdb
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Antlr3.Runtime.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\BouncyCastle.Crypto.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\K4os.Hash.xxHash.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\MySql.Data.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Newtonsoft.Json.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Buffers.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.IO.Pipelines.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Memory.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Net.Http.Formatting.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Numerics.Vectors.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Helpers.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Http.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Http.WebHost.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Mvc.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Optimization.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Razor.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\WebGrease.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\ZstdSharp.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\BouncyCastle.Crypto.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\K4os.Hash.xxHash.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\MySql.Data.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Buffers.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.IO.Pipelines.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Memory.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Numerics.Vectors.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Helpers.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Mvc.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Optimization.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Razor.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Newtonsoft.Json.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Antlr3.Runtime.pdb
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Net.Http.Formatting.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Http.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\System.Web.Http.WebHost.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\obj\Debug\Mobile_APP.csproj.CopyComplete
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\csc.exe
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\csc.exe.config
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\csc.rsp
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\csi.exe
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\csi.exe.config
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\csi.rsp
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.AppContext.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Console.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Net.Http.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\vbc.exe
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\vbc.exe.config
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\vbc.rsp
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayushi Raj\Desktop\New folder\Mobile_APP\Mobile_APP\bin\roslyn\VBCSCompiler.exe.config
