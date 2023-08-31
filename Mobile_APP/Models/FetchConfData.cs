@@ -37,6 +37,8 @@ namespace Mobile_APP.Models
 
             public string Booking_Id { get; set; }
 
+        public string Conference_Room { get; set; }
+
         }
 
     }    //Parameter to fetch 

@@ -92,6 +92,38 @@ namespace Mobile_APP.Controllers
 
         }
 
+        [System.Web.Http.HttpPost]
+        [System.Web.Http.Route("api/AddBooking")]
+        public string AddBooking([FromBody] Object input)
+        {
+
+            string str="";
+            
+            try
+            {
+
+                DataAccess _da = new DataAccess();
+                str = _da.AddBooking(input);
+
+            }
+
+            catch (Exception ex)
+
+            {
+
+
+
+            }
+
+            return str;
+
+
+
+
+
+        }
+
+
 
 
 
