@@ -52,21 +52,21 @@ namespace Mobile_APP.AppCode
 
                         FetchConfData objFetchRoomData = new FetchConfData();
 
-                        objFetchRoomData.Booking_Date = Convert.ToString(dat.Rows[i]["Booking Date"]);
+                        objFetchRoomData.Booking_Date = Convert.ToString(dat.Rows[i]["booking_date"]);
 
                         //objFetchRoomData.Booking_Day = Convert.ToString(dat.Rows[i]["Booking Day"]);
 
-                        objFetchRoomData.Booking_to = Convert.ToString(dat.Rows[i]["Booking To"]);
+                        objFetchRoomData.Booking_to = Convert.ToString(dat.Rows[i]["Booking_To"]);
 
-                        objFetchRoomData.Booking_from = Convert.ToString(dat.Rows[i]["Booking From"]);
+                        objFetchRoomData.Booking_from = Convert.ToString(dat.Rows[i]["Booking_Form"]);
 
-                        objFetchRoomData.Booking_Period = Convert.ToString(dat.Rows[i]["Booking Period"]);
+                        objFetchRoomData.Booking_Period = Convert.ToString(dat.Rows[i]["Booking_Period"]);
 
-                        objFetchRoomData.Booked_Purpose = Convert.ToString(dat.Rows[i]["Booking Purpose"]);
+                        objFetchRoomData.Booked_Purpose = Convert.ToString(dat.Rows[i]["Booking_Purpose"]);
 
-                        objFetchRoomData.Booked_Details = Convert.ToString(dat.Rows[i]["Booking Details"]);
+                        objFetchRoomData.Booked_Details = Convert.ToString(dat.Rows[i]["Booking_Details"]);
 
-                        objFetchRoomData.Participant_count = Convert.ToString(dat.Rows[i]["Participants Count"]);
+                        objFetchRoomData.Participant_count = Convert.ToString(dat.Rows[i]["Participants_Count"]);
                         objFetchRoomData.Booking_Id = Convert.ToString(dat.Rows[i]["Booking_ID"]);
 
 
