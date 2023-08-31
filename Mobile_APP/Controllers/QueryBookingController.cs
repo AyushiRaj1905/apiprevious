@@ -39,8 +39,7 @@ namespace Mobile_APP.Controllers
                 List<FetchConfData> lstFectchRoomData = new List<FetchConfData>();
                 try
                 {
-
-                    
+          
                 DataAccess _da = new DataAccess();
                     lstFectchRoomData = _da.FetchRoomData();
 
@@ -62,7 +61,39 @@ namespace Mobile_APP.Controllers
 
             }
 
-        
+        [System.Web.Http.HttpPost]
+        [System.Web.Http.Route("api/FetchRoomData2")]
+        public List<FetchConfData> FetchBooking2([FromBody] Object input)
+        {
+
+
+            List<FetchConfData> lstFectchRoomData = new List<FetchConfData>();
+            try
+            {
+
+                DataAccess _da = new DataAccess();
+                lstFectchRoomData = _da.FetchRoomData2(input);
+
+            }
+
+            catch (Exception ex)
+
+            {
+
+
+
+            }
+
+            return lstFectchRoomData;
+
+
+
+
+
+        }
+
+
+
 
 
 
