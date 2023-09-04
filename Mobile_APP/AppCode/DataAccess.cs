@@ -34,6 +34,7 @@ namespace Mobile_APP.AppCode
             string Emp_name = input_param.Emp_name;
             string Emp_Desg = input_param.Emp_Desg;
             string Emp_No = input_param.Emp_No;
+           // string Employee_Id=input_param.Employee_Id
 
 
 
@@ -45,7 +46,7 @@ namespace Mobile_APP.AppCode
             {
                 MySqlConnection conn = new MySql.Data.MySqlClient.MySqlConnection();
                 conn.ConnectionString = myConnectionString;
-                conn.Open();
+               // conn.Open();
                 string strcommmandtext1 = "Insert into scheemabooking.employee_table values "+ "(";
                 strcommmandtext1 = strcommmandtext1 + "'" + Emp_No + "'"+","  + "'" + Emp_name + "',";
                 strcommmandtext1 = strcommmandtext1 + "'" + Emp_Desg + "'" + "," + "'" + Emp_Dept + "');";
@@ -54,12 +55,12 @@ namespace Mobile_APP.AppCode
                 strcommmandtext2 = strcommmandtext2 + "'" + Booking_from + "'" + "," + "'" + Booking_to + "',";
                 strcommmandtext2 = strcommmandtext2 + "'" + Booking_Period + "'" + "," + "'" + Booked_Details + "',";
                 strcommmandtext2 = strcommmandtext2 + "'" + Booked_Purpose + "'" + "," + "'" + Participant_count + "',";
-                strcommmandtext2 = strcommmandtext2 + "'" + conference_room + "');";
+                strcommmandtext2 = strcommmandtext2 + "'" + conference_room +"',"+"'"+ Emp_No+ "');";
 
-                MySqlCommand comm = new MySqlCommand(strcommmandtext1, conn);
+               // MySqlCommand comm = new MySqlCommand(strcommmandtext1, conn);
                 //   MySqlDataReader dataReader = comm.ExecuteReader();
-                comm.ExecuteReader();
-                conn.Close();
+               // comm.ExecuteReader();
+               // conn.Close();
                 conn.Open();
                 MySqlCommand comm2 = new MySqlCommand(strcommmandtext2, conn);
                 comm2.ExecuteReader();
